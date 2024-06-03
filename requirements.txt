@@ -1,0 +1,17 @@
+youtube_transcript_api
+streamlit
+google-generativeai
+python-dotenv
+pathlib
+ipython
+numpy
+transformers
+torch
+gradio
+diffusers
+ctransformers[cuda]
+Pillow
+pypdf2
+peft
+pimm
+timm
